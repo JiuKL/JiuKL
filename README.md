@@ -48,14 +48,16 @@
 
 ## Project Analysis :point_down:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JiuKL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuKL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![](https://github-profile-trophy.vercel.app/?username=misdazzling&theme=flat&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=JiuKL&theme=flat&column=7&margin-w=10)
 
 ### Github 状态图
 
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&theme=tokyonight)
+![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=JiuKL&show_icons=true&theme=tokyonight)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuKL)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
