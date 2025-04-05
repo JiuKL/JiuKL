@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="www.blog.misdazzlign.fun">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;这里是Dazzling的主页!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;这里是JiuKL的主页!&center=true&size=27">
   </a>
 </h1>
 <br>
@@ -12,8 +12,6 @@
 
 
 ### 自我介绍
-
-<div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
 - :raised_hands:大家好，我是JiuKL，来自山东。
 - :dart:目前是一名计算机在读研究生
@@ -28,8 +26,7 @@
 
 
 - <a href="https://www.cnblogs.com/99kk"><img height="22" width="22" src="https://www.fomal.cc/favicon.ico">个人博客</a>
-- 🟣 [为我发电](https://afdian.net/a/dazzling)
-- 🟡 [公众号](https://open.weixin.qq.com/qr/code?username=gh_7bbcce86ad5a)
+- 🟡 [公众号](https://github.com/JiuKL/JiuKL/blob/master/images/wx.jpg)
 
 
 ---
@@ -51,17 +48,14 @@
 
 ## Project Analysis :point_down:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misdazzling&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ![](https://github-profile-trophy.vercel.app/?username=misdazzling&theme=flat&column=7&margin-w=10)
 
 ### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&theme=tokyonight)
 
-### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=misdazzling&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=misdazzling&show_icons=true&theme=tokyonight)
 
 <br>
 
